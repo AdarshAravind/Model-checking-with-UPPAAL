@@ -40,4 +40,4 @@ the system. UPPAAL provides a toolbox to verify real-time systems and has been s
 in case studies of communication protocols and multimedia applications. To perform model
 checking I’m using CTL formal language to specify properties and verify them using the model
 checking tool. UPPAAL performs automatic verification and locates errors in application design in
-the form of counterexamples when mymodel does not satisfy a certainproperty
+the form of counterexamples when my model does not satisfy certain property.
